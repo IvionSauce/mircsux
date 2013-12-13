@@ -1,0 +1,1 @@
+A simple python script dedicated to converting a mIRC style log to an irssi style log. Written once for a friend migrating IRC logging setups. I think it worked decently, but I'm not sure whether time/dates were completely correct. So, user beware! ;>
